@@ -10,4 +10,7 @@ HYATT REGENCY MCCORMICK PLACE:https://www.chicago-hotels-now.com/en/property/hya
 hilton garden inn chicago mccormick place: https://www.tripadvisor.com/Hotel_Feature-g35805-d13934126-zft1-Hilton_Garden_Inn_Chicago_McCormick_Place.html
 
 Restaurants:
-
+Cafe Bionda: https://www.tripadvisor.com/Restaurant_Review-g35805-d814631-Reviews-Cafe_Bionda-Chicago_Illinois.html
+La Cantina: https://tableagent.com/chicago/la-cantina-grill/
+The Berghoff Restaurant: https://www.enjoyillinois.com/explore/listing/berghoff/
+La Cocina: https://postmates.com/store/la-cocina-lake/hH4stFcrRiyd1fkXVNttrg
