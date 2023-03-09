@@ -1,4 +1,4 @@
-Places of Interest:
+## Places of Interest:
 Buckingham Fountain: https://uk.hotels.com/go/usa/buckingham-fountain-chicago
 Cloud Gate: https://en.wikipedia.org/wiki/File:Cloud_Gate_(The_Bean)_from_east%27.jpg
 Field Museum: https://sonlighttours.com/welcome-field-museum/
@@ -19,7 +19,7 @@ Exploratorium: https://www.sftravel.com/article/after-dark-thursdays-exploratori
 Transamerica Pyramid: https://www.archdaily.com/979469/foster-plus-partners-begins-work-on-san-franciscos-iconic-transamerica-pyramid-renovation
 SF Cable Car Museum: https://www.visitcalifornia.com/in/node/539696
 
-Hotels:
+## Hotels:
 Central Loop Hotel: https://www.kayak.com/Chicago-Hotels-Central-Loop-Hotel.32139.ksp
 Hilton Garden Inn Chicago Downtown South Loop: https://www.booking.com/hotel/us/hilton-garden-inn-chicago-downtown-south-loop.html
 HYATT REGENCY MCCORMICK PLACE: https://www.tripadvisor.com/LocationPhotoDirectLink-g35805-d87618-i73924701-Hyatt_Regency_McCormick_Place-Chicago_Illinois.html
@@ -34,7 +34,7 @@ Hyatt House Jersey City: https://www.kayak.com/Jersey-City-Hotels-Hyatt-House-Je
 Doubletree NYC: https://www.booking.com/hotel/us/doubletree-new-york-city-financial-district.html
 Barriere Fouquet's: https://www.booking.com/hotel/us/barriere-fouquet.html
 
-Restaurants:
+## Restaurants:
 Cafe Bionda: https://www.cafebiondasouthloop.com/
 La Cantina: https://tableagent.com/chicago/la-cantina-grill/
 The Berghoff Restaurant: https://www.enjoyillinois.com/explore/listing/berghoff/
