@@ -38,6 +38,9 @@ Doubletree NYC: https://www.booking.com/hotel/us/doubletree-new-york-city-financ
 Barriere Fouquet's: https://www.booking.com/hotel/us/barriere-fouquet.html
 The Millenium hotel: https://www.nycgo.com/hotels/millennium-hotel-broadway-times-square/
 
+Hyatt Regency SF: https://www.tripadvisor.com.au/LocationPhotoDirectLink-g60713-d81103-i69116261-Hyatt_Regency_San_Francisco-San_Francisco_California.html
+Club Quarters: https://www.tripadvisor.com/Hotel_Review-g60713-d268240-Reviews-Club_Quarters_Hotel_Embarcadero_San_Francisco-San_Francisco_California.html
+
 ## Restaurants:
 Cafe Bionda: https://www.cafebiondasouthloop.com/
 La Cantina: https://tableagent.com/chicago/la-cantina-grill/
